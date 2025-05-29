@@ -1,0 +1,7 @@
+package com.bean;
+
+public class Login {
+private String emailid;
+private String password;
+private String typeofuser;
+}
