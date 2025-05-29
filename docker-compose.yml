@@ -16,7 +16,7 @@ services:
       - 8761:8761
     restart: always
   login-micro-service:
-    build: ./backend/Login-app/Login-app/
+    build: ./backend/login-app/login-app/
     container_name: login_micro_service_container
     environment:
       - EUREKA_CLIENT_SERVICEURL_DEFAULTZONE=http://eureka-server:8761/eureka/
