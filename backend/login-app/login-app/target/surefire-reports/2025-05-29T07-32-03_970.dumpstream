@@ -1,0 +1,5 @@
+# Created at 2025-05-29T07:32:04.360
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Desktop\Caltech 2024 Oct Batch\capstone project\backend\login-app\login-app\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
